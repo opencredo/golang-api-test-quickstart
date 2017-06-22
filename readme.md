@@ -22,6 +22,8 @@ NOTE: some tests will fail. This is intentional! The theyworkforyou.com API retu
 
 ## Dependencies
 
-`go get github.com/onsi/ginkgo/ginkgo`
-`go get github.com/onsi/gomega`
-`go get -u gopkg.in/resty.v0`
+```
+go get github.com/onsi/ginkgo/ginkgo
+go get github.com/onsi/gomega
+go get -u gopkg.in/resty.v0
+```
