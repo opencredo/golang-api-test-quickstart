@@ -16,6 +16,7 @@ An example test framework to get started with API testing using Golang. Uses the
 - Install go
 - get this project: `go get github.com/burythehammer/golang-api-test-quickstart`
 - Download dependencies (see below)
+- Move into the test directory: `cd $GOPATH/src/github.com/burythehammer/golang-api-test-quickstart/tests`
 - Run your tests: `go test`
 
 NOTE: some tests will fail. This is intentional! The theyworkforyou.com API returns `200` when it can't find an MP. I consider that a bug, don't you? :)
